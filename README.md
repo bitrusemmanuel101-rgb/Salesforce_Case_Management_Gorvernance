@@ -167,3 +167,12 @@ The system was tested across multiple case scenarios to ensure correct routing, 
 - Advanced analytics on case resolution performance
 - Machine learning-based workload balancing
 
+
+
+---
+*Part of the Emmanuel Bitrus Payments & Revenue Operations Portfolio*
+*→ [Back to Portfolio](https://lorenferatacado.my.canva.site/bitrusemmanuel-salesops-portfolio)*
+
+
+
+
